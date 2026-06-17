@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "My Player",
+    "category": "Android, Compose Multiplatform, ExoPlayer",
+    "link": "https://play.google.com/store/apps/details?id=com.myplayer.myplayer",
+    "image": "myplayer.png",
+    "type": "completed"
+  },
+  {
+    "id": 2,
+    "title": "Fuse",
+    "category": "KMP, Android, iOS, Real-Time Chat",
+    "link": "https://play.google.com/store/apps/details?id=com.fuse.com",
+    "image": "fuse.png",
+    "type": "completed"
+  },
+  {
+    "id": 3,
+    "title": "AdaptiveKit",
+    "category": "Compose Multiplatform, Open Source, UI Toolkit",
+    "link": "https://central.sonatype.com/artifact/io.github.vedangj72/adaptive-sdk",
+    "image": "adaptivekit.png",
+    "type": "completed"
+  },
+  {
+    "id": 4,
+    "title": "Garage XO",
+    "category": "Coming Soon",
+    "link": "#",
+    "image": "garagexo.png",
+    "type": "upcoming"
+  }
+]
