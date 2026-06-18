@@ -102,9 +102,7 @@ class Portfolio extends React.Component {
                         </div>
                       </div>
                       <div className="col-sm-4">
-                        <div className="w-like">
-                          <span className="ion-ios-plus-outline"></span>
-                        </div>
+
                       </div>
                     </div>
                   </div>
