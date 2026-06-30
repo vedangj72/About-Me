@@ -34,7 +34,7 @@ class Intro extends React.Component {
               <p className="pt-3">
                 <a
                   className="btn btn-primary btn px-4"
-                  href="https://drive.google.com/file/d/1GB1GarvvSVp4RXsZZCzhTCGzR1AxuIas/view?usp=sharing"
+                  href="https://drive.google.com/file/d/1ilVKOHBl8MYdZy6nF36RIYNPdrYF6_xg/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   role="button"
